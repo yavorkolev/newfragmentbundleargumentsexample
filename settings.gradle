@@ -1,0 +1,2 @@
+rootProject.name = "NewFragmentBundleArgumentsExample"
+include ':app'
